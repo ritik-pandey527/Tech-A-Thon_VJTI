@@ -1,0 +1,251 @@
+Box 1
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -123.93deg
+X: -409245.49, Y: -608316.72, Z: 3854443.02
+
+Box 2
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -152.5deg
+X: -1170389.02, Y: -609362.12, Z: 3847295.35
+
+Box 3
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -146.42deg
+X: -904701.54, Y: -600572.06, Z: 3787116.45
+
+Box 4
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: 86.25deg
+X: 15250.81, Y: 232572.03, Z: 2358458.78
+
+Box 5
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -26.59deg
+X: 717752.97, Y: -359278.19, Z: 3818734.49
+
+Box 6
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -34.84deg
+X: 845346.56, Y: -588351.47, Z: 3728334.38
+
+Box 7
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: 16.0deg
+X: 617482.11, Y: 177071.96, Z: 2636534.84
+
+Box 8
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -44.78deg
+X: 583670.39, Y: -579255.71, Z: 3668443.94
+
+Box 9
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -60.01deg
+X: 341970.34, Y: -592454.61, Z: 3751878.62
+
+Box 10
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -129.46deg
+X: -301475.21, Y: -366231.85, Z: 3779542.52
+
+Box 11
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -61.49deg
+X: 198555.93, Y: -365582.07, Z: 3770986.89
+
+Box 12
+Class: 0
+Confidence: 1.00
+Orientation: Square
+Angle: -18.36deg
+X: 558010.27, Y: -185221.72, Z: 1925150.16
+
+Box 13
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -104.51deg
+X: -155299.11, Y: -599929.97, Z: 3790688.98
+
+Box 14
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -137.44deg
+X: -632384.52, Y: -580737.05, Z: 3669978.74
+
+Box 15
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -80.95deg
+X: 97049.98, Y: -609151.29, Z: 3852063.17
+
+Box 16
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -155.14deg
+X: -819638.7, Y: -379710.19, Z: 3883951.95
+
+Box 17
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -38.9deg
+X: 445396.51, Y: -359347.49, Z: 3721539.53
+
+Box 18
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -146.3deg
+X: -560308.2, Y: -373686.37, Z: 3837933.92
+
+Box 19
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -98.2deg
+X: -53882.69, Y: -374010.85, Z: 3849745.53
+
+Box 20
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: 140.75deg
+X: -82520.67, Y: 67429.21, Z: 1940423.46
+
+Box 21
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: 172.95deg
+X: -1013391.51, Y: 125358.31, Z: 3544066.93
+
+Box 22
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -174.49deg
+X: -580580.46, Y: -55963.66, Z: 3600993.46
+
+Box 23
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -160.57deg
+X: -1051962.76, Y: -371126.03, Z: 3812021.59
+
+Box 24
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -28.18deg
+X: 1107716.61, Y: -593360.22, Z: 3762049.31
+
+Box 25
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: 150.92deg
+X: -446016.72, Y: 248040.57, Z: 3098798.55
+
+Box 26
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -163.64deg
+X: -1794258.4, Y: -526726.56, Z: 5375452.31
+
+Box 27
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -3.07deg
+X: 3043440.49, Y: -163100.65, Z: 8876535.01
+
+Box 28
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -1.79deg
+X: 888505.95, Y: -27761.85, Z: 3407519.91
+
+Box 29
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -155.53deg
+X: -4591696.35, Y: -2090131.34, Z: 13206749.78
+
+Box 30
+Class: 0
+Confidence: 1.00
+Orientation: Square
+Angle: -173.54deg
+X: -830320.71, Y: -93987.47, Z: 2813911.98
+
+Box 31
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -24.72deg
+X: 2889266.58, Y: -1330070.01, Z: 8440690.88
+
+Box 32
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -175.8deg
+X: -5030146.06, Y: -369205.66, Z: 14437276.22
+
+Box 33
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: -21.29deg
+X: 230079.16, Y: -89638.27, Z: 3889757.6
+
+Box 34
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: 23.54deg
+X: 534924.1, Y: 233081.52, Z: 4527198.76
+
+Box 35
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: 158.57deg
+X: -1074735.91, Y: 421773.11, Z: 5182590.05
+
+Box 36
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: 175.86deg
+X: -958251.49, Y: 69382.14, Z: 4280706.73

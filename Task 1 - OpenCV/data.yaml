@@ -1,0 +1,13 @@
+train: C:/Users/dhruv/Downloads/Boxes.v3i.yolov8/train/images
+val: C:/Users/dhruv/Downloads/Boxes.v3i.yolov8/valid/images
+test: C:/Users/dhruv/Downloads/Boxes.v3i.yolov8/test/images
+
+nc: 1
+names: ['box']
+
+roboflow:
+  workspace: jetcounterdemo
+  project: boxes-og0wc
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jetcounterdemo/boxes-og0wc/dataset/3

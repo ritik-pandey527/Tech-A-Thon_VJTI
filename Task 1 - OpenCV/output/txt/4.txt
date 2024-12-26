@@ -1,0 +1,41 @@
+Box 1
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: 131.11deg
+X: -720807.44, Y: 826091.99, Z: 2680518.26
+
+Box 2
+Class: 0
+Confidence: 1.00
+Orientation: Square
+Angle: -92.95deg
+X: -19957.46, Y: -387112.92, Z: 1426078.79
+
+Box 3
+Class: 0
+Confidence: 1.00
+Orientation: Horizontal
+Angle: 35.93deg
+X: 719527.56, Y: 521444.66, Z: 1788086.24
+
+Box 4
+Class: 0
+Confidence: 1.00
+Orientation: Horizontal
+Angle: 23.44deg
+X: 133397.73, Y: 57839.57, Z: 1866918.52
+
+Box 5
+Class: 0
+Confidence: 1.00
+Orientation: Square
+Angle: 176.51deg
+X: -1031621.9, Y: 62990.91, Z: 2591158.71
+
+Box 6
+Class: 0
+Confidence: 1.00
+Orientation: Vertical
+Angle: 2.34deg
+X: 2662597.84, Y: 108689.07, Z: 7507952.75
